@@ -17,7 +17,7 @@ const Hero = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <p className="sm:text-lg sm:text-left text-center underline text-[10px] font-normal text-[#EBEBF599]">
+            <p className="sm:text-lg sm:text-left text-center underline text-[14px] font-normal text-[#EBEBF599]">
               CA: 0xBa71C77e8fc9CbB5bF715daF4e7bf158aBb6bF9B
             </p>
           </a>
