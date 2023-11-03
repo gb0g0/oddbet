@@ -19,12 +19,12 @@ In a world where emotions were traded like currency, There was a unique crypto t
 */}
           </p>
           <a
-            href="https://etherscan.io/token/"
+            href="https://etherscan.io/token/0xFb91bf0DBb8e43A795b7E6715d4EB5D7FE5e92C1"
             target="_blank"
             rel="noopener noreferrer"
           >
             <p className="sm:text-lg sm:text-left text-center underline text-[12px] font-normal text-[#EBEBF599]">
-              CA: 
+              CA: 0xFb91bf0DBb8e43A795b7E6715d4EB5D7FE5e92C1
             </p>
           </a>
           <div>
