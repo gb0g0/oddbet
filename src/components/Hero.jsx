@@ -6,30 +6,30 @@ const Hero = () => {
       <div className="flex flex-col md:flex-row items-center justify-between md:p-5 py-10 px-4">
         <div className="flex flex-col gap-3 sm:items-start items-center">
           <h1 className="font-bold text-center sm:text-left sm:text-6xl text-3xl">
-            OddsBet offers<br/>users a fair and secure<br/>platform to place bets
+            There is a <br />
+            unique crypto token <br />
+            known as <span className="">Depressed</span>.
           </h1>
           <p className="sm:text-2xl sm:text-left text-center text-lg font-medium text-[#EBEBF599]">
-           Access real-time odds, and enjoy <br/>a seamless gambling experience.
+            In a world where emotions were <br />
+            traded like currency.
+            {/* 
+In a world where emotions were traded like currency, There was a unique crypto token known as "Depressed."
 
+*/}
           </p>
           <a
-            href="https://etherscan.io/token/0xBa71C77e8fc9CbB5bF715daF4e7bf158aBb6bF9B"
+            href="https://etherscan.io/token/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <p className="sm:text-lg sm:text-left text-center underline text-[12px] font-normal text-[#EBEBF599]">
-              CA: 0xBa71C77e8fc9CbB5bF715daF4e7bf158aBb6bF9B
+              CA: 
             </p>
           </a>
           <div>
-            <a
-              href=""
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <button className="green border-[#fff] mb-5">
-                Buy $ODD Now
-              </button>
+            <a href="" target="_blank" rel="noopener noreferrer">
+              <button className=" border-[#fff] mb-5">Buy $DEPRESSION Now</button>
             </a>
           </div>
         </div>
@@ -41,3 +41,4 @@ const Hero = () => {
   );
 };
 export default Hero;
+//https://link.bitpay.com/i/W5M73vVNnHzvrYwNvPLKhw

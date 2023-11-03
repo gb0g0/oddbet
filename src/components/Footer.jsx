@@ -1,7 +1,7 @@
 import { logo, x } from "../assets";
 import { FaTelegram } from "react-icons/fa";
-const telegram = "https://t.me/OddbetERC";
-const twitter = "https://twitter.com/OddBet_Erc";
+const telegram = "https://t.me/DepressedPortal";
+const twitter = "https://twitter.com/DepressedERC ";
 const Footer = () => {
   return (
     <div className="flex md:flex-row flex-col-reverse justify-between py-[5px] px-[2%] w-screen mt-[5px] mb-[25px] gap-3 grotesk">

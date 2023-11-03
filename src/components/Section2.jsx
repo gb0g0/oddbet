@@ -23,17 +23,20 @@ const Section2 = () => {
         <Card
           icon={<BsFillCheckSquareFill fontSize={21} className="text-white" />}
           title="Fan Engagement"
-          subtitle="OddsBet empowers fans to participate actively in the world of Sports."
+          subtitle="Depressed, once overlooked, began to shine,
+          In the hearts of people, it formed a bond divine."
         />
         <Card
           icon={<MdGroups3 fontSize={21} className="text-white" />}
           title="Global Marketplace"
-          subtitle="With the OddBet Token, fans can trade and collect limited-edition digital collectibles, including virtual player cards, historic moments, and unique merchandise."
+          subtitle="In a marketplace of happiness and glee,
+          She held Depressed, a rarity, for all to see."
         />
         <Card
           icon={<FaGift fontSize={21} className="text-white" />}
           title="Tokenized Clubs"
-          subtitle="Sports clubs can also benefit from the OddsBet Token by using it for crowdfunding, merchandise sales, and rewarding loyal supporters."
+          subtitle="In a world of tokens, feelings bought and sold,
+          A unique emotion, Depressed, a story unfolds."
         />
       </div>
     </div>

@@ -2,17 +2,17 @@ import { useState } from "react";
 import { logo } from "../assets";
 import { HiMenuAlt3 } from "react-icons/hi";
 import { RxCross2 } from "react-icons/rx";
-const buy =
-  "https://app.rocketswap.cc/exchange/swap?outputCurrency=0xED32631bC4A7a6081f60eFcd76D70A3f7A482FF5";
-const twitter = "https://x.com/OnlyUp_ERC";
-const telegram = "https://t.me/OnlyUp_ERC";
+// const buy =
+//   "https://app.rocketswap.cc/exchange/swap?outputCurrency=0xED32631bC4A7a6081f60eFcd76D70A3f7A482FF5";
+// const twitter = "https://x.com/OnlyUp_ERC";
+// const telegram = "https://t.me/OnlyUp_ERC";
 const Header = () => {
   const [toogleMenu, setToogleMenu] = useState(false);
   return (
     <div className="flex md:flex-row justify-center py-[5px] px-[2%] w-screen mt-[5px] mb-[25px] gap-6 grotesk">
       <div className="flex items-center justify-center">
         <img src={logo} alt="Logo" width="40px" height="40px" />
-        <p className="font-semibold ml-[5px]">ODDBET</p>
+        <p className="font-semibold ml-[5px]">Depressed Individual</p>
       </div>
       {/* <div className="md:flex hidden items-center justify-center gap-10">
         <a href="http://vote.only-up.app/">Play</a>

@@ -14,7 +14,7 @@ const Section4 = () => {
           </p>
           <div>
             <a href="https://t.me/OddbetERC">
-              <button className="green border-[#fff] mb-5">
+              <button className=" border-[#fff] mb-5">
                 Join Telegram
               </button>
             </a>
