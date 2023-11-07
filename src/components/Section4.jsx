@@ -13,7 +13,7 @@ const Section4 = () => {
             excitement and competitiveness of the platform.
           </p>
           <div>
-            <a href="https://t.me/OddbetERC">
+            <a href="https://t.me/DarkSideofAI_Portal">
               <button className=" border-[#fff] mb-5">
                 Join Telegram
               </button>

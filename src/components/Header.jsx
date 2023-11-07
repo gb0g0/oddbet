@@ -12,7 +12,7 @@ const Header = () => {
     <div className="flex md:flex-row justify-center py-[5px] px-[2%] w-screen mt-[5px] mb-[25px] gap-6 grotesk">
       <div className="flex items-center justify-center">
         <img src={logo} alt="Logo" width="40px" height="40px" />
-        <p className="font-semibold ml-[5px]">Depressed Individual</p>
+        <p className="font-semibold ml-[5px]">Dark Side of AI</p>
       </div>
       {/* <div className="md:flex hidden items-center justify-center gap-10">
         <a href="http://vote.only-up.app/">Play</a>

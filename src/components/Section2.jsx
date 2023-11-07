@@ -22,21 +22,18 @@ const Section2 = () => {
       <div className="flex flex-wrap w-screen my-[20px] gap-[26px] grotesk justify-center items-center">
         <Card
           icon={<BsFillCheckSquareFill fontSize={21} className="text-white" />}
-          title="Fan Engagement"
-          subtitle="Depressed, once overlooked, began to shine,
-          In the hearts of people, it formed a bond divine."
+          title="Ethical Dilemmas"
+          subtitle="AI systems can perpetuate and even exacerbate existing biases and prejudices present in the data they are trained on."
         />
         <Card
           icon={<MdGroups3 fontSize={21} className="text-white" />}
-          title="Global Marketplace"
-          subtitle="In a marketplace of happiness and glee,
-          She held Depressed, a rarity, for all to see."
+          title="Job Displacement"
+          subtitle="Preparing the workforce for the future and addressing the potential negative impact on employment is a pressing concern."
         />
         <Card
           icon={<FaGift fontSize={21} className="text-white" />}
-          title="Tokenized Clubs"
-          subtitle="In a world of tokens, feelings bought and sold,
-          A unique emotion, Depressed, a story unfolds."
+          title="Data Privacy"
+          subtitle="The collection and utilization of personal data by AI systems can raise concerns about consent, transparency, and data ownership."
         />
       </div>
     </div>

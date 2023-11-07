@@ -8,28 +8,28 @@ const Hero = () => {
           <h1 className="font-bold text-center sm:text-left sm:text-6xl text-3xl">
             There is a <br />
             unique crypto token <br />
-            known as <span className="">Depressed</span>.
+            known as <span className="">$DAI</span>.
           </h1>
           <p className="sm:text-2xl sm:text-left text-center text-lg font-medium text-[#EBEBF599]">
-            In a world where emotions were <br />
-            traded like currency.
+            In a world where AI is traded<br />
+             like currency.
             {/* 
 In a world where emotions were traded like currency, There was a unique crypto token known as "Depressed."
 
 */}
           </p>
           <a
-            href="https://etherscan.io/token/0xFb91bf0DBb8e43A795b7E6715d4EB5D7FE5e92C1"
+            href="https://etherscan.io/token/"
             target="_blank"
             rel="noopener noreferrer"
           >
             <p className="sm:text-lg sm:text-left text-center underline text-[12px] font-normal text-[#EBEBF599]">
-              CA: 0xFb91bf0DBb8e43A795b7E6715d4EB5D7FE5e92C1
+              CA: 
             </p>
           </a>
           <div>
             <a href="" target="_blank" rel="noopener noreferrer">
-              <button className=" border-[#fff] mb-5">Buy $DEPRESSION Now</button>
+              <button className=" border-[#fff] mb-5">Buy $DAI Now</button>
             </a>
           </div>
         </div>
