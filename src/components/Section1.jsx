@@ -21,9 +21,9 @@ const Section1 = () => {
           </p>
         </div>
       </div>
-      <div className="flex sm:flex-row flex-col justify-center gap-6">
+      <div className="flex sm:flex-row flex-col items-center justify-center gap-6">
         <iframe
-          width="560"
+          width="400"
           height="315"
           src="https://www.youtube-nocookie.com/embed/pnjrrHAA1tg?si=fcQoAO0OaGpEhxIU&amp;controls=0"
           title="YouTube video player"
@@ -32,9 +32,9 @@ const Section1 = () => {
           allowfullscreen
         ></iframe>
         <iframe
-          width="560"
+          width="400"
           height="315"
-          src="https://www.youtube-nocookie.com/embed/pnjrrHAA1tg?si=fcQoAO0OaGpEhxIU&amp;controls=0"
+          src="https://www.youtube-nocookie.com/embed/RdAQnkDzGvc?si=NwkEd4gHLKle3ric&amp;controls=0"
           title="YouTube video player"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
